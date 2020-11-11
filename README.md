@@ -13,7 +13,7 @@ There is input file named 'cities_all.csv' has been provided which consist of 25
 ## Solution
 
 Solution file 'Shortest_Path.ipynb' has been attached in this repository in which python code has been enclosed for this problem. </br>
-
+https://github.com/Swagata09/travelling-salesman-problem/blob/main/Shortest_Path.ipynb
 
 
 ## Output
